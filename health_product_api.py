@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify, abort
 import json
 
 """
-API that serves product information to the company's mobile app, enabling the app development team to retrieve and display the latest health product data.
+API that serves product information to the company's future mobile app, enabling the app development team to retrieve and display the latest health product data.
 """
 
 app = Flask(__name__)
