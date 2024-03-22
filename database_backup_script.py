@@ -3,7 +3,7 @@ import datetime
 import subprocess
 
 """
-A script to back up the company's product and customer databases, ensuring data integrity and recoverability.
+A script to back up our product and customer databases, ensuring data integrity and recoverability.
 """
 
 # Database connection details (placeholders)
